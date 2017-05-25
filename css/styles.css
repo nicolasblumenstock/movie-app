@@ -1,0 +1,17 @@
+img {
+	width: 100%;
+	transition: all 4s ease;
+}
+
+.spin {
+	transform: rotateY(360deg);
+}
+
+.info {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.backdrop, .release{
+	margin-bottom: 10px;
+}
